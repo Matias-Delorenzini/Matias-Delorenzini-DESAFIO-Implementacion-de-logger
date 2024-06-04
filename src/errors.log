@@ -1,0 +1,39 @@
+{"level":"warn","message":"¡Alerta!"}
+{"level":"warn","message":"¡Alerta!"}
+fatal: ¡Alerta!
+error: ¡Alerta!
+error: ¡Alerta!
+error: ¡Alerta!
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: Esto es un Error
+fatal: Esto es un Fatal
+error: undefined
+error: INTERNAL_SERVER_ERROR
+error: PRODUCT_CREATE_INVALID_QUANTITY
+error: PRODUCT_CREATE_INVALID_QUANTITYEl precio y stock deben ser números positivos al crear el producto.
+error: PRODUCT_CREATE_INVALID_QUANTITY: El precio y stock deben ser números positivos al crear el producto.
+error: PRODUCT_CREATE_MISSING_ARGUMENTS: No se pudo crear el producto ya que no se proporcionaron uno o más datos.
+error: undefined
+error: CART_PRODUCT_ADD_MISSING_ARGUMENTS: No se pudo añadir el producto al carrito porque el id del producto o el carrito no fueron especificados.
+error: CART_PRODUCT_ADD_MISSING_ARGUMENTS: No se pudo añadir el producto al carrito porque el id del producto o el carrito no fueron especificados.
