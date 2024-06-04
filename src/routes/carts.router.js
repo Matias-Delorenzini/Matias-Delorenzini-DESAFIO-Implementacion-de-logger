@@ -79,7 +79,7 @@ router.delete("/removeProduct/:productId", publicRouteAuth, async (req, res, nex
     try {
         const { productId } = req.params;
         const cartId = req.session.user.cart;
-        const result = await cartsService.removeProductFromCart(cartId, productId);
+        const result = await cartsService.removeProductFromCart(cartId,productId);
         if (result.success === false) throw new CustomError(`${result.message}`);
         res.redirect("/api/cart");
     } catch (error) {
